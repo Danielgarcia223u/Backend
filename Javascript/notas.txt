@@ -1,0 +1,2 @@
+en los elementos asincronos el flujo del codigo sigue sin importar por las lineas que se pausan o tienen tiempos de espera.
+En los sicronos el codigo completa las lineas en orden 
